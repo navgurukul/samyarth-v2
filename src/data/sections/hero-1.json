@@ -1,12 +1,12 @@
 {
-    "title": "<span style=\"color: #4A9088;\">Samy</span>arth <span class=\"mil-thin\">a Better</span><br> World <span class=\"mil-thin\">Today</span>",
-    "description": "Samyarth is a cooperative of marginalized women, support businesses to be what they can be, with technical and content services",
-    "button1": {
-        "link": "/services",
-        "label": "What we do"
-    },
-    "button2": {
-        "link": "/projects",
-        "label": "View works"
-    }
+  "title": "<span class=\"mil-thin\"> Empowering </span>   Women, <span class=\"mil-thin\"> Transforming </span> Businesses",
+  "description": "Samyarth is a cooperative of marginalized women, support businesses to be what they can be, with technical and content services",
+  "button1": {
+    "link": "/services",
+    "label": "What we do"
+  },
+  "button2": {
+    "link": "/projects",
+    "label": "View works"
+  }
 }
