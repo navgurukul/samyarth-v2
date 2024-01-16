@@ -1,6 +1,6 @@
 {
     "settings": {
-        "siteName": "Ashley",
+        "siteName": "",
         "formspreeURL": "https://formspree.io/f/your_api_key",
         "mailchimp": {
             "url": "",
@@ -9,8 +9,9 @@
     },
     "header": {
         "logo": {
-            "symbol": "A.",
-            "link": "/"
+            "symbol": "Samyarth",
+            "link": "/",
+            "image": "/img/logo/logo.svg"
         },
         "menu": [
             {
@@ -149,3 +150,6 @@
         }
     ]
 }
+
+
+
