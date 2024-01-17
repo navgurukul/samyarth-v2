@@ -36,7 +36,7 @@
             ]
         },
         {
-            "image": "/img/faces/3.jpg",
+            "image": "/img/teamPhoto/komal.jpeg",
             "name": "Komal Ahire",
             "role": "Frontend Dev",
             "social": [
@@ -92,10 +92,10 @@
             ]
         },
         {
-            "image": "/img/faces/4.jpg",
-            "name": "Shivansh Rawat",
-            "role": "Frontend Dev",
-            "social": [
+            "image": "/img/teamPhoto/s.png",
+            "name": "Sanjana Panwar",
+            "role": "Backendend Dev",
+            "social": [ 
                 {
                     "icon": "fab fa-behance",
                     "link": "https://behance.com",
