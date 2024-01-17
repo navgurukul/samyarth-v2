@@ -52,7 +52,6 @@ const DefaultHeader = ({ extraClass }) => {
       <div className={`mil-menu-frame ${toggle ? "mil-active" : ""}`}>
         {/* frame clone */}
         <div className="mil-frame-top">
-          {/* <Link href={AppData.header.logo.link} className="mil-logo">{AppData.header.logo.symbol}</Link> */}
           <Link href={AppData.header.logo.link} className="mil-logo">
             <img
               src={AppData.header.logo.image}
@@ -243,7 +242,7 @@ const DefaultHeader = ({ extraClass }) => {
       <div className="mil-frame">
         <div className="mil-frame-top">
           <Link href={AppData.header.logo.link} className="mil-logo">
-            {/* {AppData.header.logo.image} */}
+       
             <img
               src={AppData.header.logo.image}
               alt={AppData.header.logo.symbol}
