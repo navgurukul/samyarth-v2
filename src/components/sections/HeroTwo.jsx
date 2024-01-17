@@ -8,6 +8,7 @@ const HeroTwo = () => {
         <>
             {/* banner */}
             <section className="mil-banner-personal">
+    
 
                 <div className="mil-animation-frame">
                     <div className="mil-animation mil-position-4 mil-dark mil-scale" data-value-1="7" data-value-2="1.4" style={{"right": "25%"}}>

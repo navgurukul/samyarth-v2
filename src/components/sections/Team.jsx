@@ -40,11 +40,11 @@ const TeamSection = () => {
                                             <div className="mil-secrc-text">
                                                 <h5 className="mil-muted mil-mb-5">{item.name}</h5>
                                                 <p className="mil-link mil-light-soft mil-mb-10">{item.role}</p>
-                                                <ul className="mil-social-icons mil-center">
+                                                {/* <ul className="mil-social-icons mil-center">
                                                     {item.social.map((social, key2) => (
                                                     <li key={`services1-item${key}-social-${key2}`}><a href={social.link} target="_blank" className="social-icon" title={social.title}> <i className={social.icon} /></a></li>
                                                     ))}
-                                                </ul>
+                                                </ul> */}
                                             </div>
                                         </div>
                                     </div>
@@ -64,11 +64,11 @@ const TeamSection = () => {
                                             <div className="mil-secrc-text">
                                                 <h5 className="mil-muted mil-mb-5">{item.name}</h5>
                                                 <p className="mil-link mil-light-soft mil-mb-10">{item.role}</p>
-                                                <ul className="mil-social-icons mil-center">
+                                                {/* <ul className="mil-social-icons mil-center">
                                                     {item.social.map((social, key2) => (
                                                     <li key={`services2-item${key}-social-${key2}`}><a href={social.link} target="_blank" className="social-icon" title={social.title}> <i className={social.icon} /></a></li>
                                                     ))}
-                                                </ul>
+                                                </ul> */}
                                             </div>
                                         </div>
                                     </div>
