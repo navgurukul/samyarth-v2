@@ -33,6 +33,27 @@
                 ]
             },
             {
+                "label": "Services",
+                "link": "/services",
+                "children": [
+                    {
+                        "label": "Services List",
+                        "link": "/services"
+                    },
+                    {
+                        "label": "Single Service",
+                        "link": "/services/service-1"
+                    }
+                ]
+            },
+            {
+                "label": "Contact",
+                "link": "/contact",
+                "children": 0
+            }
+        ],
+        "inactiveMenu": [
+            {
                 "label": "Portfolio",
                 "link": "/projects",
                 "children": [
@@ -51,20 +72,6 @@
                 ]
             },
             {
-                "label": "Services",
-                "link": "/services",
-                "children": [
-                    {
-                        "label": "Services List",
-                        "link": "/services"
-                    },
-                    {
-                        "label": "Single Service",
-                        "link": "/services/service-1"
-                    }
-                ]
-            },
-            {
                 "label": "Blog",
                 "link": "/blog",
                 "children": [
@@ -77,11 +84,6 @@
                         "link": "/blog/play-to-your-strength-and-supercharge-your-business-4"
                     }
                 ]
-            },
-            {
-                "label": "Contact",
-                "link": "/contact",
-                "children": 0
             },
             {
                 "label": "Other",
@@ -108,10 +110,6 @@
             {
                 "label": "Home",
                 "link": "/"
-            },
-            {
-                "label": "Portfolio",
-                "link": "/projects"
             },
             {
                 "label": "Services",
@@ -149,7 +147,4 @@
             "title": "Github"
         }
     ]
-}
-
-
-
+}   
