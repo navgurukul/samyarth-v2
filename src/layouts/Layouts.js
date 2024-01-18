@@ -24,7 +24,7 @@ const Layouts = ({
     ScrollAnimation();
     CursorAnimation();
     AnchorSscroll();
-    CurrentPageLabel();
+    // CurrentPageLabel();
   }, []);
 
   return (

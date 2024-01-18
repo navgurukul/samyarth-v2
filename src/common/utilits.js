@@ -38,14 +38,14 @@ export const Accordion = () => {
   }
 };
 
-export const CurrentPageLabel = () => {
-  var curLabel = document.querySelector(".mil-current-page");
-  const curMenu = document.querySelector(".mil-main-menu ul li.mil-active > a");
-  var curValue = '';
+// export const CurrentPageLabel = () => {
+//   var curLabel = document.querySelector(".mil-current-page");
+//   const curMenu = document.querySelector(".mil-main-menu ul li.mil-active > a");
+//   var curValue = '';
 
-  if ( curMenu != undefined ) {
-    curValue = curMenu.innerHTML;
-  }
+//   if ( curMenu != undefined ) {
+//     curValue = curMenu.innerHTML;
+//   }
 
-  curLabel.innerHTML = curValue;
-};
+//   curLabel.innerHTML = curValue;
+// };
