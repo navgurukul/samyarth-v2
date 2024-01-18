@@ -89,9 +89,9 @@ const HeroOne = () => {
                     <use xlinkHref="#circlePath" fill="none" />
                     <text style={{ letterSpacing: "6.5px" }}>
                       {/* circle text */}
-                      <textPath xlinkHref="#circlePath">
+                      {/* <textPath xlinkHref="#circlePath">
                         Scroll down - Scroll down -{" "}
-                      </textPath>
+                      </textPath> */}
                     </text>
                   </g>
                 </svg>
