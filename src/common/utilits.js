@@ -39,7 +39,7 @@ export const Accordion = () => {
 };
 
 export const CurrentPageLabel = () => {
-  var curLabel = document.querySelector(".mil-current-page");
+  // var curLabel = document.querySelector(".mil-current-page");
   const curMenu = document.querySelector(".mil-main-menu ul li.mil-active > a");
   var curValue = '';
 
@@ -47,5 +47,5 @@ export const CurrentPageLabel = () => {
     curValue = curMenu.innerHTML;
   }
 
-  curLabel.innerHTML = curValue;
+  // curLabel.innerHTML = curValue;
 };
