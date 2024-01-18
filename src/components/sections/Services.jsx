@@ -27,7 +27,7 @@ const ServicesSection = () => {
                         </div>
 
                         <div className="mil-complex-text justify-content-center mil-up mil-mb-15">
-                            <span className="mil-text-image"><img src="img/photo/2.jpg" alt="team" /></span>
+                            {/* <span className="mil-text-image"><img src="img/photo/2.jpg" alt="team" /></span> */}
                             <h2 className="mil-h1 mil-muted mil-center" dangerouslySetInnerHTML={{__html : Data.title1}} />
                         </div>
 
@@ -44,13 +44,13 @@ const ServicesSection = () => {
                         {Data.items.map((item, key) => (
                         <div key={`services-item-${key}`} className="col-md-6 col-lg-3 mil-services-grid-item p-0">
 
-                            <Link href={item.link} className="mil-service-card-sm mil-up">
+                            <div className="mil-service-card-sm mil-up">
                                 <h5 className="mil-muted mil-mb-30" dangerouslySetInnerHTML={{__html : item.title}} />
                                 <p className="mil-light-soft mil-mb-30">{item.text}</p>
-                                <div className="mil-button mil-icon-button-sm mil-arrow-place">
+                                {/* <div className="mil-button mil-icon-button-sm mil-arrow-place">
                                     <ArrowIcon />
-                                </div>
-                            </Link>
+                                </div> */}
+                            </div>
 
                         </div>
                         ))}

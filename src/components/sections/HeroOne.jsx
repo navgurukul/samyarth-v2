@@ -43,8 +43,10 @@ const HeroOne = () => {
               />
 
               <div className="row">
-                <div className="col-md-7 col-lg-5">
-                  <p className="mil-light-soft mil-mb-60">{Data.description}</p>
+                <div className="col-md-7 col-lg-7">
+                  <h5 className="mil-light-soft mil-mb-60">
+                    {Data.description}
+                  </h5>
                 </div>
               </div>
 
