@@ -7,7 +7,7 @@ import BackToTop from "../back-to-top/Index";
 import Pentagon from "@layouts/pentagon/Index";
 
 const DefaultHeader = ({ extraClass }) => {
-  const [toggle, setToggle] = useState(true);
+  const [toggle, setToggle] = useState(false);
   const [show, setShow] = useState(false);
   const { asPath } = useRouter();
 
