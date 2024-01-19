@@ -12,7 +12,7 @@ const AboutSection = () => {
 
                             <div className="mil-mb-90">
                                 <h2 className="mil-up mil-mb-60" dangerouslySetInnerHTML={{__html : Data.title}} />
-                                <div className="mil-text mil-up mil-mb-30" dangerouslySetInnerHTML={{__html : Data.description}} />
+                                <div style={{fontSize:"	1.20rem"}} className="mil-text mil-up mil-mb-30" dangerouslySetInnerHTML={{__html : Data.description}} />
                                 
                                 {/* <div className="mil-about-quote">
                                     <div className="mil-avatar mil-up">

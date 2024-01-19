@@ -181,7 +181,7 @@ const DefaultHeader = ({ extraClass }) => {
         )}
 
         <div className="mil-frame-bottom">
-          <div className="mil-current-page" />
+          {/* <div className="mil-current-page" /> */}
 
           <BackToTop />
         </div>

@@ -43,8 +43,10 @@ const HeroOne = () => {
               />
 
               <div className="row">
-                <div className="col-md-7 col-lg-5">
-                  <p className="mil-light-soft mil-mb-60">{Data.description}</p>
+                <div className="col-md-7 col-lg-7">
+                  <h5 className="mil-light-soft mil-mb-60">
+                    {Data.description}
+                  </h5>
                 </div>
               </div>
 
@@ -89,9 +91,9 @@ const HeroOne = () => {
                     <use xlinkHref="#circlePath" fill="none" />
                     <text style={{ letterSpacing: "6.5px" }}>
                       {/* circle text */}
-                      <textPath xlinkHref="#circlePath">
+                      {/* <textPath xlinkHref="#circlePath">
                         Scroll down - Scroll down -{" "}
-                      </textPath>
+                      </textPath> */}
                     </text>
                   </g>
                 </svg>
