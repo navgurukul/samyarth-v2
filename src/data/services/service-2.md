@@ -1,8 +1,9 @@
 ---
 #preview details
 title: "Website Design and Development"
-preview_title: "Website Design <br>and Development"
-short: "Our creative agency is a team of professionals focused on helping your brand grow."
+preview_title: "Financial  <br> Services"
+short: "We harness technology to streamline financial services, making them accessible and impactful. 
+"
 
 #full details
 introTitle: Website <span class="mil-thin">Design</span><br> and <span class="mil-thin">Development</span>

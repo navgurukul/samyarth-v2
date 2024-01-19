@@ -33,19 +33,14 @@ const Services = (props) => {
                               <div className="row">
                                   {props.services.map((item, key) => (
                                   <div className="col-md-6 col-lg-6" key={`services-item-${key}`}>
-                                      <Link href={`/services/${item.id}`} className={key%2 == 0 ? "mil-service-card-lg mil-more mil-accent-cursor mil-offset" : "mil-service-card-lg mil-more mil-accent-cursor"}>
+                                      <p href={`/services/${item.id}`} className={key%2 == 0 ? "mil-service-card-lg mil-more mil-accent-cursor mil-offset" : "mil-service-card-lg mil-more mil-accent-cursor"}>
                                           <h4 className="mil-muted mil-up mil-mb-30" dangerouslySetInnerHTML={{__html : item.preview_title}} />
+                                          {/* <h4>Hello Jason Folder</h4> */}
                                           <p className="mil-descr mil-light-soft mil-up mil-mb-30">{item.short}</p>
-                                          <ul className="mil-service-list mil-light mil-mb-30">
-                                            {item.list.items.slice(0, 4).map((list_item, list_key) => (
-                                            <li className="mil-up" key={`services-item-${key}-list-${list_key}`}>{list_item.label}</li>
-                                            ))}
-                                          </ul>
+                                   
                                           <div className="mil-link mil-accent mil-arrow-place mil-up">
-                                              <span>Read more</span>
-                                              <ArrowIcon />
                                           </div>
-                                      </Link>
+                                      </p>
                                   </div>
                                   ))}
                               </div>
