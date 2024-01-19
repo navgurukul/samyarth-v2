@@ -1,23 +1,23 @@
 {
-    "title": "Customer <span class=\"mil-thin\">Voices:</span> <br>Hear What <span class=\"mil-thin\">They Say!</span>",
+    "title": "Our  <span class=\"mil-thin\">Clients:</span>",
     "subtitle": "Customer reviews are a valuable source <br>of information for both businesses and consumers.",
     "items": [
         {
-            "name": "Paul Trueman",
+            "name": "Meraki",
             "image": "/img/customers/1.jpg",
-            "role": "Eqanta app",
+            "role": "LMS for underprivilaged children",
             "text": "Working with Courtney Davis as our UI designer was an absolute pleasure. Her attention to detail and creative approach brought our vision to life. The user interface she designed exceeded our expectations, and we received positive feedback from our clients. Highly recommended!"
         },
         {
-            "name": "Olivia Oldman",
+            "name": "C4CA",
             "image": "/img/customers/2.jpg",
-            "role": "Eqanta app",
+            "role": "Scalable Application to support 1.5lakh students",
             "text": "I had the opportunity to collaborate with Courtney, and I must say she is incredibly talented. Her ability to understand our brand and translate it into a interface was impressive. Courtney's designs were intuitive, and enhanced the overall user experience. I look forward to working with her again!"
         },
         {
-            "name": "Oscar Newman",
+            "name": "Navgurukul",
             "image": "/img/customers/3.jpg",
-            "role": "Eqanta app",
+            "role": "A Non Profit for underprivilaged children",
             "text": "Courtney Davis is an exceptional UI designer. She has a keen eye for aesthetics and understands how to create interfaces. Courtney's designs greatly improved the usability of our application, and we couldn't be happier with the results. Highly skilled and reliable!"
         }
     ]

@@ -292,7 +292,7 @@ menu button
         display: block;
         width: 28px;
         height: 2.5px;
-        background: $dark;
+        background: $light;
         backface-visibility: hidden;
         transition: inherit;
     }
@@ -870,9 +870,9 @@ lines
         transform: translateY(-75px);
     }
 
-    50% {
-        transform: translateY(75px);
-    }
+    // 50% {
+    //     transform: translateY(75px);
+    // }
 
     to {
         transform: translateY(-75px);

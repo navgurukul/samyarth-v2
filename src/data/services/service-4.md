@@ -1,8 +1,8 @@
 ---
 #preview details
 title: "Creative Consulting Concept Development"
-preview_title: "Creative Consulting <br>Concept Development"
-short: "Our creative agency is a team of professionals focused on helping your brand grow."
+preview_title: "Curriculum <br> Design"
+short: "We design and deliver customized and interactive curriculum for our clients."
 
 #full details
 introTitle: Creative <span class="mil-thin">Consulting</span><br> and <span class="mil-thin">Concept</span> Development

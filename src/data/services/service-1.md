@@ -1,8 +1,9 @@
 ---
 #preview details
 title: "Branding and Identity Design"
-preview_title: "Branding and <br>Identity Design"
-short: "Our creative agency is a team of professionals focused on helping your brand grow."
+preview_title: "Website and <br> App Development"
+short: "From sleek interfaces to intuitive experiences, we build digital spaces that make a difference. Whether you need a landing page, a blog, an e-commerce site, or a mobile app, we can deliver high-quality and user-friendly solutions that meet your needs and goals.
+"
 
 #full details
 introTitle: Branding<br> and <span class="mil-thin">Identity Design</span>

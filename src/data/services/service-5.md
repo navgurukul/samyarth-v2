@@ -1,11 +1,11 @@
 ---
 #preview details
-title: "Advertising and Marketing Campaigns"
-preview_title: "UX and <br> UI Design"
-short: "We believe good design is good for everyone, creating interfaces that tell your story with clarity and impact. We follow a human-centered design approach, involving users throughout the process to ensure we deliver solutions that are relevant, engaging, and easy to use."
+title: "Creative Consulting Concept Development"
+preview_title: "Low Code/No <br> Code Development"
+short: "We build low cost and sustainable solutions using Low Code/No Code tools. We leverage platforms and frameworks that enable us to create applications without writing code, or with minimal coding."
 
 #full details
-introTitle: <span class="mil-thin">Advertising</span><br> and <span class="mil-thin">Marketing</span> Campaigns
+introTitle: Creative <span class="mil-thin">Consulting</span><br> and <span class="mil-thin">Concept</span> Development
 
 description:
   title: Your <span class="mil-thin">Approach</span> <br>and <span class="mil-thin">Work Specifics</span>
