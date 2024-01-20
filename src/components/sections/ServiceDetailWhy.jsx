@@ -1,4 +1,4 @@
-import Link from "next/link"; 
+import Link from "next/link";
 import Layouts from "@layouts/Layouts";
 import PageBanner from "@/src/components/PageBanner";
 import { useEffect } from "react";
@@ -13,7 +13,7 @@ const ServiceDetailWhy = () => {
     introTitle: '<span class="mil-thin"> Why </span> Samyarth',
     description: {
       title:
-        '<span class="mil-thin"> Technology, </span>  Creativity, <span class="mil-thin"> <br>and Work </span>  Impact',
+        ' Technology,  Creativity, <span class="mil-thin"> <br>and </span> Work   Impact',
       content:
         "At Samyarth, we are more than just a service provider. We are a social enterprise that combines technology, creativity, and impact. We offer a range of services that cater to the needs of non-profits, governments, and socially conscious for-profits.",
       button: {
@@ -54,7 +54,8 @@ const ServiceDetailWhy = () => {
 
       {/* service */}
       <section id="service">
-        <h2 style={{marginTop:"40px"}}
+        <h2
+          style={{ marginTop: "40px" }}
           className="mil-center mil-up mil-mb-50  mil-p-120-90"
           dangerouslySetInnerHTML={{ __html: postData.introTitle }}
         />
@@ -71,7 +72,6 @@ const ServiceDetailWhy = () => {
                   __html: postData.description.content,
                 }}
               />
-            
             </div>
             <div className="col-lg-6">
               {postData.list != undefined && (
