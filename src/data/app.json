@@ -33,6 +33,7 @@
                 "link": "/#team",
                 "children": []
             }
+        
         ],
         "inactiveMenu": [
             {
@@ -80,6 +81,11 @@
                         "link": "/404"
                     }
                 ]
+            },
+            {
+                "label": "Contact",
+                "link": "/contact",
+                "children": 0
             }
         ]
     },

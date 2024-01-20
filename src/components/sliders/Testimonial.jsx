@@ -11,11 +11,11 @@ const TestimonialSlider = () => {
       <section className="mil-soft-bg">
           <div className="container mil-p-120-120">
 
-              <div className="row">
+              {/* <div className="row">
                   <div className="col-lg-10">
                       <span className="mil-suptitle mil-suptitle-right mil-suptitle-dark mil-up" dangerouslySetInnerHTML={{__html : Data.subtitle}} />
                   </div>
-              </div>
+              </div> */}
 
               <h2 className="mil-center mil-up mil-mb-60" dangerouslySetInnerHTML={{__html : Data.title}} />
 
