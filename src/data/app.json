@@ -18,32 +18,14 @@
                 "label": "Homepage",
                 "link": "/",
                 "children": [
-                    {
-                        "label": "Landing Page",
-                        "link": "/"
-                    },
-                    {
-                        "label": "Personal",
-                        "link": "/home-2"
-                    },
-                    {
-                        "label": "Home Slider",
-                        "link": "/projects-3"
-                    }
+                    
                 ]
             },
             {
                 "label": "Services",
                 "link": "/services",
                 "children": [
-                    {
-                        "label": "Services List",
-                        "link": "/services"
-                    },
-                    {
-                        "label": "Single Service",
-                        "link": "/services/service-1"
-                    }
+                   
                 ]
             },
             {
@@ -126,23 +108,20 @@
         ]
     },
     "social": [
+
         {
-            "link": "https://behance.net",
-            "icon": "fab fa-behance",
-            "title": "Behance"
+            "link": "https://www.linkedin.com/school/navgurukul/mycompany/",
+            "icon": "fab fa-linkedin",
+            "title": "LinkedIn"
         },
         {
-            "link": "https://dribbble.com",
-            "icon": "fab fa-dribbble",
-            "title": "Dribbble"
+            "link": "mailto:vaibhav.m@navgurkul.org",
+            "icon": "fas fa-envelope",
+            "title": "Mail to us"
         },
+
         {
-            "link": "https://twitter.com",
-            "icon": "fab fa-twitter",
-            "title": "Twitter"
-        },
-        {
-            "link": "https://github.com",
+            "link": "https://github.com/navgurukul",
             "icon": "fab fa-github",
             "title": "Github"
         }

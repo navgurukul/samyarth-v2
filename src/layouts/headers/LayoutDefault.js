@@ -116,11 +116,10 @@ const DefaultHeader = ({ extraClass }) => {
                       >
                         <Link
                           href={item.link}
-                          onClick={
-                            item.children !== 0
-                              ? (e) => clickedMobileMenuItemParent(e)
-                              : ""
-                          }
+                        onClick={()=>{
+                       item?.link=="/"?
+                          setToggle(false):null;
+                        }}
                         >
                           {item.label}
                         </Link>
