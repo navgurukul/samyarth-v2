@@ -27,12 +27,8 @@
                 "children": [
                    
                 ]
-            },
-            {
-                "label": "Contact",
-                "link": "/contact",
-                "children": 0
             }
+        
         ],
         "inactiveMenu": [
             {
@@ -80,6 +76,11 @@
                         "link": "/404"
                     }
                 ]
+            },
+            {
+                "label": "Contact",
+                "link": "/contact",
+                "children": 0
             }
         ]
     },
