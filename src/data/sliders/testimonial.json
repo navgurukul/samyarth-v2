@@ -26,5 +26,12 @@
             "role": "NGO",
             "text": "Peepul is an education non-profit working on transforming India's public school system in partnership with the government"
         }
+        ,
+        {
+            "name": "Zuvy",
+            "image": "/img/customers/3.jpg",
+            "role": "E-learning platform",
+            "text": "Zuvy focuses on bringing affordable tech education to underprivileged girls in India."
+        }
     ]
 }
