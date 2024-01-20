@@ -27,6 +27,11 @@
                 "children": [
                    
                 ]
+            },
+            {
+                "label": "Our Team",
+                "link": "/#team",
+                "children": []
             }
         
         ],

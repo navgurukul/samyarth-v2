@@ -8,7 +8,7 @@ const TeamSection = () => {
     <>
         {/* team */}
         <section>
-            <div className="container mil-p-120-30">
+            <div className="container mil-p-120-30" id="team">
                 <div className="row justify-content-between align-items-center">
                     <div className="col-lg-5 col-xl-4">
 
