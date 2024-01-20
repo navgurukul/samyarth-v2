@@ -41,13 +41,13 @@ var menu = ['<div class="mil-custom-dot mil-slide-1"></div>', '<div class="mil-c
 
 export const SliderProps = {
   milReviewsSlider: {
-    pagination: {
-        el: '.mil-revi-pagination',
-        clickable: true,
-        renderBullet: function (index, className) {
-            return '<span class="' + className + '">' + (menu[index]) + '</span>';
-        },
-    },
+    // pagination: {
+    //     el: '.mil-revi-pagination',
+    //     clickable: true,
+    //     renderBullet: function (index, className) {
+    //         return '<span class="' + className + '">' + (menu[index]) + '</span>';
+    //     },
+    // },
     speed: 800,
     effect: 'fade',
     parallax: true,

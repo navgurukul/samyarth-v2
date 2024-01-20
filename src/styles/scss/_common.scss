@@ -799,6 +799,7 @@ spaces
 .mil-p-0-120 {
     padding-bottom: 120px;
 
+
     @media screen and (max-width: 992px) {
         padding-bottom: 90px;
     }
@@ -815,13 +816,27 @@ spaces
 .mil-p-120-60 {
     padding-top: 120px;
     padding-bottom: 60px;
+    display: flex;
 
     @media screen and (max-width: 992px) {
         padding-top: 90px;
         padding-bottom: 30px;
+        flex-direction: column;
     }
 }
+.mil-p-120-300{
 
+    padding-top: 120px;
+    padding-bottom: 60px;
+    display: flex;
+
+    @media screen and (max-width: 992px) {
+        padding-top: 90px;
+        padding-bottom: 30px;
+        flex-direction: column;
+    }
+
+}
 .mil-p-90-90 {
     padding-top: 90px;
     padding-bottom: 90px;

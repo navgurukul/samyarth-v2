@@ -7,16 +7,20 @@ const PartnersSlider = () => {
   return (
     <>
     {/* partners */}
-    <div className="mil-soft-bg">
-        <div className="container mil-p-0-120">
+    <div className="mil-soft-bg"  >
+        <div className="container mil-p-0-120"  >
             <Swiper
                 {...SliderProps.milInfiniteSlider}
                 className="swiper-container mil-infinite-show mil-up"
+               
+              
             >
                 {Data.items.map((item, key) => (
-                <SwiperSlide className="swiper-slide" key={`partners-slider-item-${key}`}>
+                <SwiperSlide  className="swiper-slide" key={`partners-slider-item-${key}`}>
                 <a href={item.link} target="_blank" className="mil-partner-frame" style={{"width": "60px"}}>
-                    <img src={item.image} alt={item.alt} />
+                    <img style={{
+                        width:"150px", height:"80px"
+                    }} src={item.image} alt={item.alt} />
                 </a>
                 </SwiperSlide>
                 ))}
