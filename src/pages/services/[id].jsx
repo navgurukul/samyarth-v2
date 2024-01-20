@@ -64,9 +64,9 @@ const ServiceDetail = ( { data, related } ) => {
       </section>
       {/* service end */}
       
-      <PricingSection />
+      {/* <PricingSection /> */}
 
-      <RelatedServices services={related} />
+      {/* <RelatedServices services={related} /> */}
       
     </Layouts>
   );
