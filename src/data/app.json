@@ -29,9 +29,9 @@
                 ]
             },
             {
-                "label": "Contact",
-                "link": "/contact",
-                "children": 0
+                "label": "Our Team",
+                "link": "/#team",
+                "children": []
             }
         ],
         "inactiveMenu": [

@@ -117,8 +117,11 @@ const DefaultHeader = ({ extraClass }) => {
                         <Link
                           href={item.link}
                         onClick={()=>{
-                       item?.link=="/"?
-                          setToggle(false):null;
+                          if(item.link=='/') setToggle(false);
+
+                          if(item?.link=="/#team")
+                            setToggle(false)
+                          
                         }}
                         >
                           {item.label}

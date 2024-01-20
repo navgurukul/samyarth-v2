@@ -7,7 +7,7 @@ const HeroOne = () => {
   return (
     <>
       {/* banner */}
-      <section className="mil-banner mil-dark-bg">
+      <section className="mil-banner mil-dark-bg"  >
         <div className="mi-invert-fix">
           <div className="mil-animation-frame">
             <div
