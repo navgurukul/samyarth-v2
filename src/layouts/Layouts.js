@@ -5,6 +5,7 @@ import { CursorAnimation } from "../common/cursor";
 import { AnchorSscroll } from "../common/utilits";
 import { CurrentPageLabel } from "../common/utilits";
 
+
 import Footer from "./footers/Index";
 import Header from "./headers/Index";
 //import Preloader from "./preloader/Index";
