@@ -22,7 +22,6 @@ const DefaultFooter = ({ extraClass }) => {
   useEffect(()=>{
     setTimeout(() => {
       
-    console.log("show",show, window.innerWidth)
     }, 1000);
     
   },[show])
