@@ -1,12 +1,12 @@
 {
     "title": "Meet <br>Our Team",
-    "description": "<p>We are talented individuals who are passionate about bringing ideas to life. With a diverse range of backgrounds and skill sets, we collaborate to produce effective solutions for our clients.</p><p>Together, our creative team is committed to delivering impactful work that exceeds expectations.</p>",
+    "description": "<p>We are Samyarth, a cooperative of skilled and passionate professionals who use technology for social good. Our team includes web and app developers, financial service experts, UX and UI designers, and curriculum designers. We are also mainly marginalized women, who champion social impact and inclusion.</p>",
     "subtitle": "<span class=\"mil-thin\">We</span> delivering <br><span class=\"mil-thin\">exceptional</span> results.",
     "button": {
         "link": "/team",
         "label": "See more"
     },
-    "note": "<span class=\"mil-accent\">*</span> The founders of our agency",
+   
     "col1_items": [
         {
             "image": "/img/teamPhoto/a.jpg",

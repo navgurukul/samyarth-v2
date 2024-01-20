@@ -279,7 +279,7 @@ const Team = () => {
     fetchTeamData();
   }, []);
 
-  console.log("teamData", teamData);
+
   return (
     <Layouts>
       <PageBanner
