@@ -1,31 +1,31 @@
 {
-    "title1": "Unique <span class=\"mil-thin\">Ideas</span>",
-    "title2": "For Your <span class=\"mil-thin\">Organization.</span>",
-    "subtitle": "Professionals focused on helping your organization<br/> grow and move forward.",
-    "button": {
-        "link": "/services",
-        "label": "What we do"
+  "title1": "<span class=\"mil-thin\"> Unique </span>Solutions",
+  "title2": "<span class=\"mil-thin\"> For Your</span> Organization.",
+  "subtitle": "Professionals focused on helping your organization<br/> grow and move forward.",
+  "button": {
+    "link": "/services",
+    "label": "What we do"
+  },
+  "items": [
+    {
+      "title": "Website and App <br> Development ",
+      "text": "From sleek interfaces to intuitive experiences, we build digital spaces that make a difference. Whether you need a landing page, a blog, an e-commerce site, or a mobile app, we can deliver high-quality and user-friendly solutions that meet your needs and goals",
+      "link": "/services/service-1"
     },
-    "items": [
-        {
-            "title": "Website and App <br> Development ",
-            "text": "From sleek interfaces to intuitive experiences, we build digital spaces that make a difference. Whether you need a landing page, a blog, an e-commerce site, or a mobile app, we can deliver high-quality and user-friendly solutions that meet your needs and goals",
-            "link": "/services/service-1"
-        },
-        {
-            "title": "Financial Services ",
-            "text": " We harness technology to streamline financial services, making them accessible and impactful.",
-            "link": "/services/service-2"
-        },
-        {
-            "title": "UX & UI Design" ,
-            "text": " We believe good design is good for everyone, creating interfaces that tell your story with clarity and impact. We follow a human-centered design approach, involving users throughout the process to ensure we deliver solutions that are relevant, engaging, and easy to use.",
-            "link": "/services/service-3"
-        },
-        {
-            "title": "Low Code/No Code <br> Development",
-            "text": "We build low cost and sustainable solutions using Low Code/No Code tools. We leverage platforms and frameworks that enable us to create applications without writing code, or with minimal coding.",
-            "link": "/services/service-4"
-        }
-    ]
+    {
+      "title": "Financial Services ",
+      "text": " We harness technology to streamline financial services, making them accessible and impactful.",
+      "link": "/services/service-2"
+    },
+    {
+      "title": "UX & UI Design",
+      "text": " We believe good design is good for everyone, creating interfaces that tell your story with clarity and impact. We follow a human-centered design approach, involving users throughout the process to ensure we deliver solutions that are relevant, engaging, and easy to use.",
+      "link": "/services/service-3"
+    },
+    {
+      "title": "Low Code/No Code <br> Development",
+      "text": "We build low cost and sustainable solutions using Low Code/No Code tools. We leverage platforms and frameworks that enable us to create applications without writing code, or with minimal coding.",
+      "link": "/services/service-4"
+    }
+  ]
 }
