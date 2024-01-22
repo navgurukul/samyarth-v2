@@ -29,7 +29,7 @@ const ServiceDetailWhy = () => {
             "<p>We offer affordable and transparent rates that reflect the value and quality of our work. We use low code/no code tools and agile methodologies to deliver solutions faster, cheaper, and easier, while still maintaining high quality and functionality.</p>",
         },
         {
-          label: "Contribute to social good while prioritizing business needs",
+          label: "Align business needs with social good",
           value:
             "<p>We align our services with your mission and vision, while also empowering our members and communities with skills, income, and dignity. We are a for-profit cooperative run by members, mainly marginalized women, who champion socially impactful initiatives and the potential of underserved communities.</p>",
         },
