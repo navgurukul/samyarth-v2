@@ -288,7 +288,7 @@ const Team = () => {
         }
         breadTitle={"Team"}
         anchorLabel={"Our team"}
-        anchorLink={"#team"}
+        // anchorLink={"#team"}
       />
 
       {/* team */}

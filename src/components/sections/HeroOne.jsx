@@ -66,7 +66,7 @@ const HeroOne = () => {
                 <span>{Data.button2.label}</span>
                 <ArrowIcon />
               </Link> */}
-
+{/* 
               <div className="mil-circle-text">
                 <svg
                   version="1.1"
@@ -90,10 +90,10 @@ const HeroOne = () => {
                   <g>
                     <use xlinkHref="#circlePath" fill="none" />
                     <text style={{ letterSpacing: "6.5px" }}>
-                      {/* circle text */}
-                      {/* <textPath xlinkHref="#circlePath">
+                      circle text
+                      <textPath xlinkHref="#circlePath">
                         Scroll down - Scroll down -{" "}
-                      </textPath> */}
+                      </textPath>
                     </text>
                   </g>
                 </svg>
@@ -103,7 +103,7 @@ const HeroOne = () => {
                 >
                   <ArrowIcon />
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
