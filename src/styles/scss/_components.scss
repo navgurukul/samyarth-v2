@@ -2115,6 +2115,7 @@ portfolio
 
 
 .swiper-slide {
+    
     & .mil-portfolio-item {
         & .mil-descr {
             pointer-events: none;
@@ -2127,6 +2128,23 @@ portfolio
                 pointer-events: all;
             }
         }
+    }
+}
+.mil-img-icon{
+
+    width:200px;
+    height:35px;
+    align-self: center;
+
+    @media screen and (min-width:1280px) {
+        width:200px;
+         height:49px;
+    }
+
+
+    @media screen and (max-width: 481px) {
+        width:150px;
+         height:30px;
     }
 }
 
